@@ -1,7 +1,6 @@
-# Osama-Khan
-<!-- Profile Banner -->
+<!-- Profile Banner / Photo -->
 <p align="center">
-  <img src=""C:\Users\PC\Desktop\Screenshot 2025-07-02 134032.png"" alt="AI Banner" width="100%" />
+  <img src="assets/profile.png" alt="Osama Khan" width="160" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Hi, I'm Osama Khan 👋</h1>
@@ -10,63 +9,47 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=0A66C2" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/X_(Twitter)-Follow-111111?style=flat&logo=x&logoColor=white" /></a>
-  <a href="https://osamakhan.dev"><img src="https://img.shields.io/badge/Website-Portfolio-1f6feb?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:ok860184@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=0A66C2" /></a>
+  <a href="https://www.linkedin.com/in/osama-khan-220a1326a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 What I Do
-- Build and deploy end‑to‑end ML systems: data ➜ training ➜ evaluation ➜ inference ➜ monitoring
-- Prototype and productionize GenAI apps (RAG, tool‑use agents, multi‑modal LLMs)
-- Design MLOps pipelines (CI/CD, model registry, feature store, observability)
+- End‑to‑end ML: data ➜ training ➜ evaluation ➜ inference ➜ monitoring
+- GenAI apps: RAG, chat agents, tool‑use, and multimodal pipelines
+- MLOps: CI/CD for models, experiment tracking, registries, observability
 
 ### 🔧 Tech Stack
 - Languages: Python, SQL, TypeScript
 - ML/DL: PyTorch, TensorFlow/Keras, scikit‑learn, XGBoost, LightGBM
-- GenAI: Hugging Face, OpenAI API, LangChain, LlamaIndex, vector DBs (FAISS, Chroma, Pinecone)
-- MLOps: MLflow, Weights & Biases, DVC, Airflow, Prefect
-- Serving: FastAPI, Docker, Kubernetes, Ray, Triton Inference Server
-- Data: Pandas, Polars, PySpark, DuckDB
-- Cloud: AWS/GCP/Azure (ECR/ECS, S3, Lambda, Cloud Run)
+- GenAI: Hugging Face, OpenAI API, LangChain, vector DBs
+- MLOps: MLflow, Weights & Biases, DVC, Airflow/Prefect
+- Serving: FastAPI, Docker, Kubernetes, Ray/Triton
 
 ### 🌟 Featured Projects
-- AI Project A — LLM RAG for domain X with hybrid search and evaluation
-  - Tech: FastAPI, LangChain, FAISS/Chroma, OpenAI/HF
-  - Demo | Code | Blog
-- AI Project B — Production ML pipeline with model monitoring
-  - Tech: Airflow, MLflow, Prometheus/Grafana
-  - Demo | Code | Report
-- Vision Project C — Real‑time object detection and tracking
-  - Tech: PyTorch, ONNX, Triton
-  - Demo | Code | Paper
+- Process Scheduling (Streamlit) — Interactive CPU scheduling visualizer and simulator
+  - Tech: Python, Streamlit
+- Crop Prediction System — Recommends optimal crops from soil and climate features
+  - Tech: scikit‑learn, Pandas
+- Stock Price Prediction — Time‑series forecasting and backtesting
+  - Tech: scikit‑learn/XGBoost, Prophet or LSTM variants
+- Heart Disease Prediction — Classification with explainability (feature importances/SHAP)
+  - Tech: scikit‑learn, SHAP
+- Data Visualization — Exploratory dashboards and statistical plots
+  - Tech: Matplotlib, Seaborn, Plotly
+- Agetic AI (LangFlow) — PDF summary analyzer using LLM orchestration
+  - Tech: LangFlow, embeddings/RAG
 
-Tip: Pin these repos on your profile so they appear first.
+Tip: Pin these 3–6 repos on your profile for maximum impact.
 
-### 📈 Results & Benchmarks
-- Achieved XX% accuracy / F1 on dataset Y; improved baseline by ZZ%
-- Latency: P95 < 120ms at 500 RPS on GPU T4
-- Cost‑optimized inference: −35% with quantization and batch sizing
-
-### 🧪 Reproducible Demos
-- Colab: One‑click notebooks with small sample data
-- Model cards with metrics, limitations, and ethical considerations
-- Seeds fixed; env captured via `requirements.txt` and `environment.yml`
-
-### 📝 Publications & Talks
-- Title — Venue/Year — Link
-- Title — Meetup/Conference — Slides
-
-### 🧩 Open Source
-- Contributor to Project X (issue Y, PR Z)
-- Created lightweight libraries: your‑lib‑name (pip install), docs & examples
+### 📈 Results & Highlights
+- Improved baseline models with metric‑driven iteration; explainability via SHAP and model cards
+- Built reproducible pipelines with versioned data and automatic evals
 
 ### 🛠️ Engineering Goodies
-- CI: Tests, lint, type‑check (pre‑commit + GitHub Actions)
-- Release pipelines with model versioning and semantic tags
-- Observability dashboards for drift and performance regressions
+- CI: tests, lint, type‑check via GitHub Actions
+- Repro: `requirements.txt` / `environment.yml`, Colab notebooks for quick runs
 
 ### 📊 GitHub Stats
 <p align="left">
@@ -74,12 +57,6 @@ Tip: Pin these repos on your profile so they appear first.
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Websevel&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
-### 🤝 Let’s Collaborate
-- Looking for roles in AI/ML Engineering and MLOps
-- Open to consulting on LLM apps, RAG, and ML platform design
-
-<p align="left">
-  <a href="mailto:ok860184@gmail.com">Email</a> •
-  <a href="www.linkedin.com/in/osama-khan-220a1326a">LinkedIn</a> •
-  
-</p>
+### 🤝 Let’s Connect
+- Email: <a href="mailto:ok860184@gmail.com">ok860184@gmail.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/osama-khan-220a1326a/">osama-khan-220a1326a</a>
