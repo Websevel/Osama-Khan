@@ -1,6 +1,6 @@
 <!-- Profile Banner / Photo -->
 <p align="center">
-  <img src="assets/profile.png" alt="Osama Khan" width="160" style="border-radius:50%" />
+  <img src="Screenshot 2025-07-02 134032.png" alt="Osama Khan" width="160" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Hi, I'm Osama Khan 👋</h1>
