@@ -1,7 +1,7 @@
 # Osama-Khan
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=1200&auto=format&fit=crop" alt="AI Banner" width="100%" />
+  <img src=""C:\Users\PC\Desktop\Screenshot 2025-07-02 134032.png"" alt="AI Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Osama Khan 👋</h1>
@@ -79,8 +79,7 @@ Tip: Pin these repos on your profile so they appear first.
 - Open to consulting on LLM apps, RAG, and ML platform design
 
 <p align="left">
-  <a href="mailto:your.email@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
-  <a href="https://twitter.com/your-handle">X</a> •
-  <a href="https://osamakhan.dev">Website</a>
+  <a href="mailto:ok860184@gmail.com">Email</a> •
+  <a href="www.linkedin.com/in/osama-khan-220a1326a">LinkedIn</a> •
+  
 </p>
